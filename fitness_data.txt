@@ -1,0 +1,14 @@
+Location: Gym, Activity: Weightlifting, Calories Burned: 200
+Location: Office, Activity: Desk Exercises, Calories Burned: 100
+Location: Park, Activity: Jogging, Calories Burned: 100
+Location: Park, Activity: Jogging, Calories Burned: 1000
+Location: Home, Activity: Pilates, Calories Burned: 100
+Location: Gym, Activity: Treadmill, Calories Burned: 1000
+Location: Gym, Activity: Treadmill, Calories Burned: 2000
+Location: Park, Activity: Jogging, Calories Burned: 10000
+Location: Park, Activity: Jogging, Calories Burned: 1000
+Location: Gym, Activity: Treadmill, Calories Burned: 1000
+Location: Office, Activity: Desk Exercises, Calories Burned: 1000
+Location: Home, Activity: Yoga, Calories Burned: 1000
+Location: Gym, Activity: Weightlifting, Calories Burned: 1000
+Location: Park, Activity: Swimming, Calories Burned: 1000

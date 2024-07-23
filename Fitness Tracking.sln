@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fitness Tracking", "Fitness Tracking.vcxproj", "{3B611F15-3B8C-4C15-8C12-72C8ADFD11D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B611F15-3B8C-4C15-8C12-72C8ADFD11D1}.Debug|x64.ActiveCfg = Debug|x64
+		{3B611F15-3B8C-4C15-8C12-72C8ADFD11D1}.Debug|x64.Build.0 = Debug|x64
+		{3B611F15-3B8C-4C15-8C12-72C8ADFD11D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{3B611F15-3B8C-4C15-8C12-72C8ADFD11D1}.Debug|x86.Build.0 = Debug|Win32
+		{3B611F15-3B8C-4C15-8C12-72C8ADFD11D1}.Release|x64.ActiveCfg = Release|x64
+		{3B611F15-3B8C-4C15-8C12-72C8ADFD11D1}.Release|x64.Build.0 = Release|x64
+		{3B611F15-3B8C-4C15-8C12-72C8ADFD11D1}.Release|x86.ActiveCfg = Release|Win32
+		{3B611F15-3B8C-4C15-8C12-72C8ADFD11D1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {597FD06E-16DA-4A57-B2E5-ADDE85B9BC0F}
+	EndGlobalSection
+EndGlobal
